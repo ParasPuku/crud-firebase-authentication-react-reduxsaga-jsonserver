@@ -1,3 +1,19 @@
+# Live Demo
+URL - https://fastidious-travesseiro-425819.netlify.app/
+
+# Website Screenshots
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/65712411/162263173-3500017a-cfb9-482d-a724-b3a6b5911e44.PNG">
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/65712411/162263184-93cd1f65-1c7b-43ad-849e-991d2387bec0.PNG">
+<img width="960" alt="3" src="https://user-images.githubusercontent.com/65712411/162263199-8d644d92-827d-4242-aa44-6b7bd534448d.PNG">
+<img width="960" alt="4" src="https://user-images.githubusercontent.com/65712411/162263207-94e40e58-1daf-4f6a-a166-a6b7b4805451.PNG">
+<img width="960" alt="5" src="https://user-images.githubusercontent.com/65712411/162263212-04d2ec38-e5d5-4a4e-a43a-7779c4798f15.PNG">
+<img width="960" alt="6" src="https://user-images.githubusercontent.com/65712411/162263215-0f512905-de4b-4c7b-9ea4-1e4adb66ca6f.PNG">
+
+# RUN STEPS -- 
+# First CMD Prompt - npm start
+# Second CMD Prompt - npm run server
+# .env - Firebase secret key
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
