@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Paras",
+      "email": "paras@gmail.com",
+      "phone": "9940494245",
+      "address": "Kanke Ranchi",
+      "id": 1
+    },
+    {
+      "name": "Anku",
+      "email": "annkumahto444@gmail.com",
+      "phone": "7645823769",
+      "address": "Sukurhuttu, Ranchi",
+      "id": 2
+    },
+    {
+      "name": "Puru",
+      "email": "puru@email.com",
+      "phone": "9308955722",
+      "address": "HBR Layout Bengaluru",
+      "id": 3
+    },
+    {
+      "name": "Varsha",
+      "email": "varsha@gmail.com",
+      "phone": "9830992209",
+      "address": "Silli Ranchi",
+      "id": 4
+    },
+    {
+      "name": "Ankuu",
+      "email": "annkumahto@gmail.com",
+      "phone": "7645823769",
+      "address": "354 STATION ROAD, BIHARI COLONY",
+      "id": 6
+    }
+  ]
+}
