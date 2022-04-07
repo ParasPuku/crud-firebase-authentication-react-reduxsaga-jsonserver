@@ -10,9 +10,9 @@ URL - https://fastidious-travesseiro-425819.netlify.app/
 <img width="960" alt="6" src="https://user-images.githubusercontent.com/65712411/162263215-0f512905-de4b-4c7b-9ea4-1e4adb66ca6f.PNG">
 
 # RUN STEPS -- 
-# First CMD Prompt - npm start
-# Second CMD Prompt - npm run server
-# .env - Firebase secret key
+#First CMD Prompt - npm start
+#Second CMD Prompt - npm run server
+#.env - Firebase secret key
 
 # Getting Started with Create React App
 
